@@ -7,7 +7,6 @@ This Python script checks the weather forecast using the OpenWeatherMap API and 
 - Uses [OpenWeatherMap](https://openweathermap.org/forecast5) 5-day/3-hour forecast
 - Analyzes upcoming weather to detect rain
 - Sends an SMS via [Twilio](https://www.twilio.com/) if rain is predicted
-- Keeps credentials secure using `.env` variables
 
 ## How It Works
 
